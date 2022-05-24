@@ -1,3 +1,9 @@
+iptables (1.6.1-2ubuntu2+patch-suppl-groups) bionic; urgency=medium
+
+  * Add suppl-groups patch
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 24 May 2022 22:38:48 +0200
+
 iptables (1.6.1-2ubuntu2) bionic; urgency=medium
 
   * No-change rebuild against latest libnftnl
